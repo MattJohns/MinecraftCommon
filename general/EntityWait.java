@@ -3,6 +3,8 @@ package mattjohns.minecraft.common.general;
 /**
  * An object that gets waited on. The object should have an id associated with
  * it (hence 'entity').
+ * 
+ * test1
  */
 public class EntityWait<TEntity> {
 	// just to prevent overflow of integer
